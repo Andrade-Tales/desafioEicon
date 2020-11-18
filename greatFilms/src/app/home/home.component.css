@@ -8,7 +8,12 @@
 }
 
 .texto {
-    letter-spacing: .2rem;
     font-size: 12pt;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.titulo{
+    letter-spacing: .2rem;
+    font-size: 14pt;
     font-family: 'Roboto Condensed', sans-serif;
 }
